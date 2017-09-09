@@ -37,6 +37,6 @@ else if (milkNeeded > milkStock) {
 } 
 else if (milkNeeded < milkStock && milkNeeded !== 0) {
   console.log(milkNeeded)
-  console.log("You have " + milkStock + " cartons and because it is " + dayWeek + " you need " + milkNeeded + '.' + " You have more than enough milk.")
+  console.log("You have " + milkStock + " cartons and because it is " + dayWeek + " you need " + milkNeeded + '.' + " You have more than enough milk!")
 }
 

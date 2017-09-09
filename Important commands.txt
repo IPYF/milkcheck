@@ -1,0 +1,2 @@
+git add . <track with git all things in folder>
+git commit -m "Initial commit"
